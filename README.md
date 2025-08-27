@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pallab Hazra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+Welcome to my GitHub profile!  
+Here are some of my achievements 👇
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
+[![@piku123's Holopin board](https://holopin.me/piku123)](https://holopin.io/@piku123)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallab00122&label=Profile%20views&color=0e75b6&style=flat" alt="pallab00122" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallab00122&label=Profile%20views&color=0e75b6&style=flat" alt="Pallab00122" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallab00122" alt="pallab00122" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallab00122" alt="Pallab00122" /></a> </p>
+
+## 🚀 About Me
+
+- 🌱 Currently learning: Web Development, Python, and AI
 
 - 🔭 I’m currently working on [Durga Puja](pujakolkata.netlify.app)
 
@@ -11,9 +18,11 @@
 
 - 📫 How to reach me **hazrap404@gmail.com**
 
+- 💼 Open to collaboration on interesting projects  
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Tkt6unlqaal3Kncz9D8pzhjmlmuEinv_/view?usp=drive_link](https://drive.google.com/file/d/1Tkt6unlqaal3Kncz9D8pzhjmlmuEinv_/view?usp=drive_link)
 
-- ⚡ Fun fact **I think I am a good story teller.**
+- ⚡ Fun fact **I love exploring new tech and solving coding challenges.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
